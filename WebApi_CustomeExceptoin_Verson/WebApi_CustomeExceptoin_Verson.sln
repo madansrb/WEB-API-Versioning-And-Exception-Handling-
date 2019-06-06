@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_CustomeExceptoin_Verson", "WebApi_CustomeExceptoin_Verson\WebApi_CustomeExceptoin_Verson.csproj", "{C3A49A9D-75EB-492C-9C5B-5C1E7BB31DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A49A9D-75EB-492C-9C5B-5C1E7BB31DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A49A9D-75EB-492C-9C5B-5C1E7BB31DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A49A9D-75EB-492C-9C5B-5C1E7BB31DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A49A9D-75EB-492C-9C5B-5C1E7BB31DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7672434-1D16-484C-9FF1-95E3CEB01217}
+	EndGlobalSection
+EndGlobal
